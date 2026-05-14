@@ -4,7 +4,7 @@ url: ""
 baseurl: ""
 lang: en
 
-author:
+author: Kritika Kumari
   name: Kritika Kumari
   role: Ph.D. student in Biophysics
   affiliation: University of Wisconsin–Madison
@@ -12,11 +12,11 @@ author:
   email: kkumari@wisc.edu
   github: KritikaKumari22
   interests:
-    - Computational biology
+    - Computational and mathematical biology 
+    - Algorithms
     - Foundational machine learning models for biological sequences
     - Protein dynamics
-    - Graph-theoretic Boolean modeling
-    - Vesicle trafficking networks
+    - Evolution
 
 navigation:
   - title: About
