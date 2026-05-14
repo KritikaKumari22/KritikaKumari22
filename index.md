@@ -37,8 +37,8 @@ title: Home
       <p>Studying molecular behavior with computational biology and data-driven methods.</p>
     </article>
     <article class="feature-card">
-      <h3>Vesicle trafficking networks</h3>
-      <p>Using graph-theoretic Boolean modeling to investigate network evolution.</p>
+      <h3>Studying the Evolution of Vesicle trafficking networks in Proto-Eukaryotes </h3>
+      <p>Using graph-theoretic Boolean modeling to investigate the emergence of complexity in the eukaryotic endomembrane system during evolution.</p>
     </article>
   </div>
 </section>
