@@ -26,7 +26,7 @@ title: Home
 
 <section class="section" aria-labelledby="focus-title">
   <p class="eyebrow">Research focus</p>
-  <h2 id="focus-title">Computational models for biological systems.</h2>
+  <h2 id="template-title">Computational models for biological systems.</h2>
   <div class="section-grid">
     <article class="feature-card">
       <h3>Machine learning for sequences</h3>
