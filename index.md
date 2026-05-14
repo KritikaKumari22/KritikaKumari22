@@ -45,6 +45,6 @@ title: Home
 
 <section class="callout" aria-labelledby="template-title">
   <p class="eyebrow">Site template</p>
-  <h2 id="template-title">A clean Jekyll foundation for an academic website.</h2>
-  <p>This site now separates content, layouts, and styling so it can grow into pages for publications, projects, CV content, and research updates.</p>
+  <!-- <h2 id="template-title">A clean Jekyll foundation for an academic website.</h2> -->
+  <!-- <p>This site now separates content, layouts, and styling so it can grow into pages for publications, projects, CV content, and research updates.</p> -->
 </section>
