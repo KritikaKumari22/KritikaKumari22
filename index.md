@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<section class="hero" aria-labelledby="intro-title">
+<!-- <section class="hero" aria-labelledby="intro-title">
   <div class="hero-card">
     <p class="eyebrow">Academic portfolio</p>
     <h1 id="intro-title">{{ site.author.name }}</h1>
@@ -22,7 +22,7 @@ title: Home
       <li><span>GitHub</span><a href="https://github.com/{{ site.author.github }}">@{{ site.author.github }}</a></li>
     </ul>
   </aside>
-</section>
+</section> -->
 
 <section class="section" aria-labelledby="focus-title">
   <p class="eyebrow">Research focus</p>
