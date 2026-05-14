@@ -1,0 +1,47 @@
+title: Kritika Kumari
+description: Ph.D. student in Biophysics at UW–Madison working on computational biology, machine learning, and vesicle trafficking networks.
+url: ""
+baseurl: ""
+lang: en
+
+author:
+  name: Kritika Kumari
+  role: Ph.D. student in Biophysics
+  affiliation: University of Wisconsin–Madison
+  location: Madison, WI
+  email: kkumari@wisc.edu
+  github: KritikaKumari22
+  interests:
+    - Computational biology
+    - Foundational machine learning models for biological sequences
+    - Protein dynamics
+    - Graph-theoretic Boolean modeling
+    - Vesicle trafficking networks
+
+navigation:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /cv/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+markdown: kramdown
+permalink: pretty
+include:
+  - _pages
+
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - vendor
+  - Gemfile.lock
